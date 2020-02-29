@@ -1,0 +1,92 @@
+[ 2018-04-10T11:20:31+08:00 ] 127.0.0.1 /ECShop_V3.0/yunqi_check.php?act=yunqi_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015713s ]
+ERR: 无法加载控制器:ECShop_V3.0
+
+[ 2018-04-10T11:20:41+08:00 ] 127.0.0.1 /ECShop_V3.0/yunqi_check.php?act=yunqi_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+ERR: 无法加载控制器:ECShop_V3.0
+
+[ 2018-04-10T11:50:15+08:00 ] 127.0.0.1 /ECShop_V3.0/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+ERR: 无法加载控制器:ECShop_V3.0
+
+[ 2018-04-10T11:50:21+08:00 ] 127.0.0.1 /ECShop_V3.0/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002206s ]
+ERR: 无法加载控制器:ECShop_V3.0
+
+[ 2018-04-10T11:50:28+08:00 ] 127.0.0.1 /ECShop_V3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载控制器:ECShop_V3.0
+
+[ 2018-04-10T11:50:30+08:00 ] 127.0.0.1 /ECShop_V3.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+ERR: 无法加载控制器:ECShop_V3.0
+
+[ 2018-04-10T11:50:31+08:00 ] 127.0.0.1 /ECShop_V3.0/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001721s ]
+ERR: 无法加载控制器:ECShop_V3.0
+
+[ 2018-04-10T11:50:32+08:00 ] 127.0.0.1 /ECShop_V3.0/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载控制器:ECShop_V3.0
+
+[ 2018-04-10T19:16:36+08:00 ] 127.0.0.1 /1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003252s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008782s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001600s ]
+
